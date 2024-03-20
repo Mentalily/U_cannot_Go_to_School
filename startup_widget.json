@@ -1,0 +1,151 @@
+{
+    "epitome_1": {
+        "background": {
+            "image": "./image/epitome/epitome_1.png",
+            "speed": [
+                0,
+                0
+            ]
+        }
+    },
+    "epitome_2": {
+        "background": {
+            "image": "./image/epitome/epitome_2.png",
+            "speed": [
+                0,
+                0
+            ]
+        }
+    },
+    "epitome_3": {
+        "background": {
+            "image": "./image/epitome/epitome_3.png",
+            "speed": [
+                0,
+                0
+            ]
+        }
+    },
+    "epitome_4": {
+        "background": {
+            "image": "./image/epitome/epitome_4.png",
+            "speed": [
+                0,
+                0
+            ]
+        }
+    },
+    "epitome_5": {
+        "background": {
+            "image": "./image/epitome/epitome_5.png",
+            "speed": [
+                0,
+                0
+            ]
+        }
+    },
+    "epitome_6": {
+        "background": {
+            "image": "./image/epitome/epitome_6.png",
+            "speed": [
+                0,
+                0
+            ]
+        }
+    },
+    "epitome_7": {
+        "background": {
+            "image": "./image/epitome/epitome_7.png",
+            "speed": [
+                0,
+                0
+            ]
+        }
+    },
+    "startup": {
+        "background": {
+            "image": "./image/startup/background.png",
+            "speed": [
+                0,
+                0
+            ]
+        },
+        "stative": {
+            "title": {
+                "image": "./image/startup/title.png",
+                "image_center": [
+                    600,
+                    300
+                ]
+            },
+            "title_glowing_1": {
+                "image": "./image/startup/title_glowing.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            }
+        },
+        "dynamic": {
+            "start": {
+                "base_image": "./image/startup/start.png",
+                "extra_image": "./image/startup/start_hovered.png",
+                "image_center": [
+                    300,
+                    700
+                ]
+            },
+            "exit": {
+                "base_image": "./image/startup/exit.png",
+                "extra_image": "./image/startup/exit_hovered.png",
+                "image_center": [
+                    900,
+                    700
+                ]
+            }
+        }
+    },
+    "continue": {
+        "background": {
+            "image": "./image/startup/background.png",
+            "speed": [
+                0,
+                0
+            ]
+        },
+        "stative": {
+            "title": {
+                "image": "./image/startup/title.png",
+                "image_center": [
+                    600,
+                    300
+                ]
+            },
+            "title_glowing_2": {
+                "image": "./image/startup/title_glowing.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            }
+        },
+        "dynamic": {
+            "continue": {
+                "base_image": "./image/startup/continue.png",
+                "extra_image": "./image/startup/continue_hovered.png",
+                "image_center": [
+                    300,
+                    700
+                ]
+            },
+            "exit": {
+                "base_image": "./image/startup/exit.png",
+                "extra_image": "./image/startup/exit_hovered.png",
+                "image_center": [
+                    900,
+                    700
+                ]
+            }
+        }
+    }
+}

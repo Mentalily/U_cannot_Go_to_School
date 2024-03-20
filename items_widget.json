@@ -1,0 +1,113 @@
+{
+    "items": {
+        "background": {
+            "image": "./image/items/background.png",
+            "speed": [
+                0,
+                0
+            ]
+        },
+        "stative": {
+            "extra_5": {
+                "image": "./image/items/extra_5.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            },
+            "extra_4": {
+                "image": "./image/items/extra_4.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            },
+            "extra_3": {
+                "image": "./image/items/extra_3.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            },
+            "extra_2": {
+                "image": "./image/items/extra_2.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            },
+            "extra_1": {
+                "image": "./image/items/extra_1.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            },
+            "left": {
+                "image": "./image/bedchamber/barrier_left.png",
+                "image_center": [
+                    5,
+                    450
+                ]
+            }
+        },
+        "dynamic": {
+            "items": {
+                "base_image": "./image/items/items.png",
+                "extra_image": "./image/items/items.png",
+                "image_center": [
+                    1150,
+                    150
+                ]
+            },
+            "tnt": {
+                "base_image": "./image/items/tnt.png",
+                "extra_image": "./image/items/tnt.png",
+                "image_center": [
+                    1250,
+                    950
+                ]
+            },
+            "clock": {
+                "base_image": "./image/items/clock.png",
+                "extra_image": "./image/items/clock.png",
+                "image_center": [
+                    1250,
+                    950
+                ]
+            },
+            "battery": {
+                "base_image": "./image/items/battery.png",
+                "extra_image": "./image/items/battery.png",
+                "image_center": [
+                    1250,
+                    950
+                ]
+            },
+            "milk": {
+                "base_image": "./image/items/milk.png",
+                "extra_image": "./image/items/milk.png",
+                "image_center": [
+                    1250,
+                    950
+                ]
+            },
+            "mobile": {
+                "base_image": "./image/items/mobile.png",
+                "extra_image": "./image/items/mobile.png",
+                "image_center": [
+                    1250,
+                    950
+                ]
+            },
+            "baozi": {
+                "base_image": "./image/items/baozi.png",
+                "extra_image": "./image/items/baozi.png",
+                "image_center": [
+                    1250,
+                    950
+                ]
+            }
+        }
+    }
+}

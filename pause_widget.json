@@ -1,0 +1,45 @@
+{
+    "pause": {
+        "background": {
+            "image": "./image/pause/background.png",
+            "speed": [
+                0,
+                0
+            ]
+        },
+        "stative": {
+            "title_1": {
+                "image": "./image/pause/title.png",
+                "image_center": [
+                    600,
+                    300
+                ]
+            },
+            "title_glowing": {
+                "image": "./image/startup/title_glowing.png",
+                "image_center": [
+                    900,
+                    1200
+                ]
+            }
+        },
+        "dynamic": {
+            "continue": {
+                "base_image": "./image/pause/continue.png",
+                "extra_image": "./image/pause/continue_hovered.png",
+                "image_center": [
+                    300,
+                    700
+                ]
+            },
+            "pause": {
+                "base_image": "./image/pause/pause.png",
+                "extra_image": "./image/pause/pause_hovered.png",
+                "image_center": [
+                    900,
+                    700
+                ]
+            }
+        }
+    }
+}
